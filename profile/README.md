@@ -282,7 +282,7 @@ Have a project in mind? [**Get in touch →**](https://www.lancieretechnologies.
 Explore our repositories below. Contributions and conversations are welcome.
 
 ### 🎯 For Job Seekers
-We're always hiring curious, driven engineers. [**Visit our website →**](https://www.lancieretechnologies.com/)
+We're always hiring curious, driven engineers. [**Visit our website →**](https://www.lancieretechnologies.com/careers)
 
 </div>
 
