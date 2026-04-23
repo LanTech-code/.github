@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://www.lancieretechnologies.com/images/Company_logo1.png" alt="Lanciere Technologies" width="140" />
+<img src="https://www.lancieretechnologies.com/images/Company_logo1.png" alt="Lanciere Technologies logo — software development company in Hyderabad, India" width="140" />
 
 # Lanciere Technologies
 
 **Engineering tomorrow's software, today.**
 
-*Custom software development · AI & data engineering · Enterprise consulting · SaaS products*
+*A leading software development company in Hyderabad, India — delivering custom web development, mobile app development, AI/ML solutions, cloud migration, and enterprise IT consulting for startups and enterprises worldwide.*
 
 [![Website](https://img.shields.io/badge/Website-lancieretechnologies.com-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lancieretechnologies.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/lanciere-technologies-india-pvt-ltd/)
@@ -18,11 +18,13 @@
 
 ---
 
-## 👋 About Us
+## 👋 About Lanciere Technologies
 
-Lanciere Technologies is a full-spectrum technology partner helping businesses design, build, and scale modern software. From early-stage startups to established enterprises, we deliver solutions that are fast, secure, and built to last.
+**Lanciere Technologies** is a full-spectrum software development and IT services company headquartered in **Hyderabad, India**, serving clients globally. We help businesses design, build, and scale modern software — from early-stage startups launching their first MVP to established enterprises modernizing legacy systems.
 
-We believe great software is the sum of thoughtful design, clean engineering, and genuine partnership — and that's the standard we hold ourselves to on every project.
+Our expertise spans **custom software development**, **web and mobile application development**, **artificial intelligence and machine learning**, **cloud computing and DevOps**, **data engineering and analytics**, **UI/UX design**, **cybersecurity**, and **SaaS product development**. We combine deep technical skill with a genuine partnership mindset to deliver solutions that are fast, secure, scalable, and built to last.
+
+Whether you need a **React web application**, a **Flutter mobile app**, an **AI-powered automation tool**, a **cloud-native microservices architecture on AWS or Azure**, or end-to-end **enterprise digital transformation** — Lanciere Technologies is the technology partner you can trust.
 
 ---
 
@@ -33,31 +35,31 @@ We believe great software is the sum of thoughtful design, clean engineering, an
 <td width="50%" valign="top">
 
 ### 💻 Custom Software Development
-End-to-end web and mobile applications built with modern stacks. From MVPs to enterprise-grade platforms.
+End-to-end web and mobile application development using React, Next.js, Node.js, Python, and modern frameworks. From MVPs to enterprise-grade platforms.
 
-### 🤖 AI & Data Engineering
-Machine learning, LLM integrations, data pipelines, and intelligent automation tailored to your business.
+### 🤖 AI & Machine Learning
+Machine learning solutions, LLM integrations, generative AI, computer vision, NLP, data pipelines, and intelligent automation tailored to your business.
 
 ### 🎨 UI/UX Design
-Pixel-perfect, user-centered designs that balance aesthetics with business objectives.
+Pixel-perfect, user-centered design in Figma and Adobe XD that balances aesthetics with conversion-driven business objectives.
 
-### 🔐 Cybersecurity
-End-to-end security audits, penetration testing, and compliance solutions for modern applications.
+### 🔐 Cybersecurity Services
+Security audits, penetration testing, OWASP-compliant development, and security compliance for modern web and cloud applications.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 Enterprise IT Consulting
-Cloud architecture, digital transformation, DevOps, and modernization of legacy systems.
+Cloud architecture, digital transformation, DevOps adoption, and modernization of legacy enterprise systems.
 
-### 📦 SaaS Products
-Our own in-house products, crafted with the same care we bring to client work.
+### 📦 SaaS Product Development
+Multi-tenant SaaS platforms, subscription billing, and in-house products crafted with the same care we bring to client work.
 
 ### ☁️ Cloud & DevOps
-Multi-cloud infrastructure, CI/CD pipelines, container orchestration, and site reliability.
+Multi-cloud infrastructure on AWS, Azure, and GCP — CI/CD pipelines, Kubernetes orchestration, Terraform automation, and site reliability engineering.
 
-### 📊 Data & Analytics
-Data warehousing, ETL pipelines, business intelligence, and real-time analytics platforms.
+### 📊 Data Engineering & Analytics
+Data warehousing with Snowflake and Databricks, ETL pipelines with Airflow and Kafka, business intelligence, and real-time analytics platforms.
 
 </td>
 </tr>
@@ -249,6 +251,12 @@ Data warehousing, ETL pipelines, business intelligence, and real-time analytics 
 
 ---
 
+## 🏭 Industries We Serve
+
+Our software solutions power businesses across multiple industries, including **FinTech**, **HealthTech**, **EdTech**, **E-commerce & Retail**, **Logistics & Supply Chain**, **Real Estate (PropTech)**, **Manufacturing**, **Media & Entertainment**, **Travel & Hospitality**, and **SaaS Startups**.
+
+---
+
 ## 📊 By the Numbers
 
 <div align="center">
@@ -263,7 +271,7 @@ Data warehousing, ETL pipelines, business intelligence, and real-time analytics 
 
 ## 🤝 Let's Build Something Together
 
-Whether you're a startup looking for a trusted technology partner, an enterprise planning a modernization, or a developer interested in joining our team — we'd love to hear from you.
+Looking for a reliable **software development partner in India**? Whether you're a startup founder seeking a technical co-pilot, an enterprise planning a **digital transformation**, or a developer interested in joining our team — we'd love to hear from you.
 
 <div align="center">
 
@@ -274,7 +282,7 @@ Have a project in mind? [**Get in touch →**](https://www.lancieretechnologies.
 Explore our repositories below. Contributions and conversations are welcome.
 
 ### 🎯 For Job Seekers
-We're always looking for curious, driven engineers. [**Visit our website →**](https://www.lancieretechnologies.com/)
+We're always hiring curious, driven engineers. [**Visit our website →**](https://www.lancieretechnologies.com/)
 
 </div>
 
@@ -292,6 +300,8 @@ We're always looking for curious, driven engineers. [**Visit our website →**](
 
 ---
 
-<sub>© 2026 Lanciere Technologies · Hyderabad, India · Crafted with precision and care</sub>
+<sub>© 2026 **Lanciere Technologies Pvt Ltd** · Hyderabad, India · Software Development · AI & Cloud Solutions · Enterprise Consulting</sub>
+
+<sub>*Keywords: software development company Hyderabad · custom software India · web development company · mobile app development · AI ML services · cloud migration · DevOps consulting · enterprise software · SaaS development · React developers · full stack development India*</sub>
 
 </div>
