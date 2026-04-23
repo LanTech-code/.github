@@ -302,6 +302,6 @@ We're always hiring curious, driven engineers. [**Visit our website →**](https
 
 <sub>© 2026 **Lanciere Technologies Pvt Ltd** · Hyderabad, India · Software Development · AI & Cloud Solutions · Enterprise Consulting</sub>
 
-<sub>*Keywords: software development company Hyderabad · custom software India · web development company · mobile app development · AI ML services · cloud migration · DevOps consulting · enterprise software · SaaS development · React developers · full stack development India*</sub>
+<sub>*software development company Hyderabad · custom software India · web development company · mobile app development · AI ML services · cloud migration · DevOps consulting · enterprise software · SaaS development · React developers · full stack development India*</sub>
 
 </div>
